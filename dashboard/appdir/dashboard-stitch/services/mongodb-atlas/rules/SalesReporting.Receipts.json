@@ -1,4 +1,5 @@
 {
+    "id": "5bd4cc124ffdc28ee090003d",
     "database": "SalesReporting",
     "collection": "Receipts",
     "roles": [
@@ -113,6 +114,16 @@
     ],
     "schema": {
         "properties": {
+            "_id": {},
+            "cardNumber": {
+                "validate": {}
+            },
+            "customerName": {
+                "validate": {}
+            },
+            "location": {
+                "validate": {}
+            },
             "size": {
                 "validate": {}
             },
@@ -123,16 +134,6 @@
                 "validate": {}
             },
             "total": {
-                "validate": {}
-            },
-            "_id": {},
-            "cardNumber": {
-                "validate": {}
-            },
-            "customerName": {
-                "validate": {}
-            },
-            "location": {
                 "validate": {}
             }
         },

@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const getPopularToppingsWebhook = "<YOUR WEBHOOK>"; // <webhook url>?secret=<secret>
+const getPopularToppingsWebhook = "https://webhooks.mongodb-stitch.com/api/client/v2.0/app/new-pizza-dash-ecvxo/service/PizzaOrderAPI/incoming_webhook/addOrder?secret=yummypizza"; // <webhook url>?secret=<secret>
 
 const chance = require("chance").Chance(); // Package for random variables
 

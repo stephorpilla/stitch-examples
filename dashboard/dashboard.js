@@ -4,7 +4,7 @@ const loginForm = document.getElementById("login-form");
 const logoutButton = document.getElementById("logout-button");
 
 // Setup MongoDB Stitch
-const APP_ID = "<YOUR APP ID>";
+const APP_ID = "new-pizza-dash-ecvxo";
 const {
   Stitch,
   UserPasswordCredential,
