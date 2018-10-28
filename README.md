@@ -1,4 +1,5 @@
-# MongoDB Stitch Examples
+[![Powered by Stitch](http://badge.learnstitch.com/?appid=new-pizza-dash-ecvxo)(http://cloud.mongodb.com)]
+# MongoDB Stitch Dashboard
 
 | Documentation                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
