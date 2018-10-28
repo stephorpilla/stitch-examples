@@ -1,4 +1,4 @@
-![Powered by Stitch](http://badge.learnstitch.com/?appid=new-pizza-dash-ecvxo)(http://cloud.mongodb.com)
+[![Powered by Stitch](http://badge.learnstitch.com/?appid=new-pizza-dash-ecvxo)(http://cloud.mongodb.com)]
 
 # MongoDB Stitch Dashboard
 
@@ -11,4 +11,3 @@
 | [Dashboard](https://docs.mongodb.com/stitch/getting-started/dashboard/)                        |
 | [IoT Temperature Tracker](https://docs.mongodb.com/stitch/getting-started/temperature-tracker/)|
 
-[![Join the chat at https://gitter.im/mongodb/stitch](https://badges.gitter.im/mongodb/stitch.svg)](https://gitter.im/mongodb/stitch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
