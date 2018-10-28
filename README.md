@@ -2,6 +2,8 @@
 
 # MongoDB Stitch Dashboard
 
+![hacktoberfest](https://github.com/mongodb/hacktoberfest2018/raw/master/assets/stitch-hacktoberfest-header.png)
+
 | Documentation                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [blog-comments-simple](https://docs.mongodb.com/stitch/getting-started/first-stitch-app/)      |
